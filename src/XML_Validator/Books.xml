@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a multi line
+ comment -->
+<books>
+    <book>
+        <author>Manuel Gut</author>
+        <title>Manu's Book</title>
+        <amountPages>100</amountPages>
+    </book>
+    <book>
+        <author>Robertina Gut</author>
+        <title>Robi's Book</title>
+        <amountPages>200</amountPages>
+    </book>
+    <book>
+        <author>Joana Gut</author>
+        <title>Joana's Book</title>
+        <amountPages>5</amountPages>
+    </book>
+</books>
+

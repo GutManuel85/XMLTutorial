@@ -1,0 +1,16 @@
+<conversions>
+    <conversion>
+        1 kilometer &lt; 1 mile
+        1 pint &lt; 1 liter
+        1 pound &lt; 1 kilogram
+    </conversion>
+    <!--Dasselbe unten, einfach ohne dass Operatoren ersetzt
+    werden müssen, da CDATA verwendet wird -->
+    <conversion>
+        <![CDATA[
+1 kilometer < 1 mile
+1 pint < 1 liter
+1 pound < 1 kilogram
+]]>
+    </conversion>
+</conversions>
